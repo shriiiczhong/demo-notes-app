@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Form from "react-bootstrap/Form";
 import Stack from "react-bootstrap/Stack";
-import Button from "react-bootstrap/Button";
 import LoaderButton from "../components/LoaderButton.tsx";
 import { Auth } from "aws-amplify";
 import "./Login.css";
